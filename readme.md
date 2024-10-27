@@ -1,6 +1,8 @@
-1. The Repo contains jupyter notebooks that implement the 'option' and the 'valuetrisk' tasks respectively. 
+1. The Repo contains jupyter notebooks that implement the 'option' and the 'valuetrisk' tasks respectively.
 
-2. If there is a problem running notebook cells (for example 'module not found' error),
+2. The answers on theoretical questions are in the original Excel file with the task.
+
+3. If there is a problem running notebook cells (for example 'module not found' error),
 you need to create virtual environment from the configuration file, select the created environment and run the notebook from it. 
 To create the environment, type in the command line from within the project root folder:
 
