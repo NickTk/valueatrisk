@@ -10,8 +10,8 @@ conda env create -f environment.yml
 
 After that, choose the conda environment in your editor by the name 'varcalc'
 
-3. To run the vanilla option test, type in the command line from within the project root folder:
+4. To run the vanilla option test, type in the command line from within the project root folder:
 
-pytest models.test.py
+pytest models/test.py
 
-If the 'pytest' command is not found, create the environment as in the item 2.
+If the 'pytest' command is not found, create the environment as in the item 3.
